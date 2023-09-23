@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://worldfinancial.github.io/2023/09/23/news-62/</loc>
+    
+    <lastmod>2023-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://worldfinancial.github.io/2023/09/23/news-61/</loc>
+    
+    <lastmod>2023-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://worldfinancial.github.io/2023/09/21/news-60/</loc>
     
     <lastmod>2023-09-21</lastmod>
@@ -598,7 +616,7 @@
 
   <url>
     <loc>https://worldfinancial.github.io/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -606,63 +624,77 @@
   
   <url>
     <loc>https://worldfinancial.github.io/tags/politic/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/tags/news/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/tags/GAME/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/tags/Internet/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/tags/coin/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/tags/oil/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/tags/Health/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/tags/US-China-trade-war/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/tags/Starbucks/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://worldfinancial.github.io/tags/Russian-Ukrainian-war/</loc>
+    <lastmod>2023-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://worldfinancial.github.io/tags/US-housing-market/</loc>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -671,56 +703,56 @@
   
   <url>
     <loc>https://worldfinancial.github.io/categories/politic/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/categories/news/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/categories/GAME/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/categories/Internet/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/categories/coin/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/categories/oil/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/categories/Health/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://worldfinancial.github.io/categories/US-China-trade-war/</loc>
-    <lastmod>2023-09-21</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
